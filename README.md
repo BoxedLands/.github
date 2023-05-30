@@ -1,2 +1,3 @@
-# .github
-Default Readme File
+# BoxedLands
+
+Public Organisation of the Server
